@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.davidcarboni</groupId>
     <artifactId>releaser</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
     <name>Releaser</name>
     <url>https://github.com/Kalp16219/maven-release</url>
@@ -26,7 +26,7 @@
         <url>https://github.com/Kalp16219/maven-release</url>
         <connection>scm:git:https://github.com/Kalp16219/maven-release</connection>
         <developerConnection>scm:git:https://github.com/Kalp16219/maven-release</developerConnection>
-        <tag>v0.0.15</tag>
+        <tag>v0.0.1</tag>
     </scm>
 
     <distributionManagement>
