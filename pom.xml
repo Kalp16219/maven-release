@@ -6,7 +6,7 @@
     <packaging>jar</packaging>
     <name>Releaser</name>
     <url>https://github.com/Kalp16219/maven-release</url>
-
+    <!-- comment -->
     <!-- Required: license information: -->
     <licenses>
         <license>
